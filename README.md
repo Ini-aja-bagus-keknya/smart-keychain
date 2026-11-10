@@ -16,9 +16,8 @@ Gantungan kunci pintar mini (*smart interactive pocket/desk charm*) berbasis mik
 
 ## 📖 Dokumentasi Lengkap Proyek
 
-Panduan spesifikasi teknis lengkap, daftar alat & komponen hardware (BOM), skema pinout sirkuit, protokol pengiriman data, arsitektur kelas C#, hingga rencana pengujian tersedia di:
-
-👉 **[Lihat PROJECT_CONTEXT.md](PROJECT_CONTEXT.md)**
+- 👉 **[PROJECT_CONTEXT.md](PROJECT_CONTEXT.md):** Panduan spesifikasi teknis lengkap, daftar alat & komponen hardware (BOM), skema pinout sirkuit, protokol pengiriman data, arsitektur kelas C#, hingga rencana pengujian.
+- 👉 **[TEAM_CONVENTIONS.md](TEAM_CONVENTIONS.md):** Aturan standar tim 4 orang: konvensi penamaan variable/method/class, batasan arsitektur antar-layer, protokol data, git workflow, dan pembagian tugas.
 
 ---
 
